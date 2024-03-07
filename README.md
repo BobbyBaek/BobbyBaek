@@ -1,7 +1,7 @@
 <h1 align="center">KyungChan, Baek (Bobby)</h1>
 
 Welcome to my page.
-I'm Bobby, front developer from 🇰🇷South Korea.
+I'm Bobby, front developer from 🇰🇷 South Korea.
 
 <h3>🦢도약</h3>
 앞으로 더욱 나은 프로젝트와 더 나은 개발자가 되겠습니다.
