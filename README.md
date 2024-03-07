@@ -3,15 +3,15 @@
 ### Welcome to my page. <br> I'm Bobby, front-end developer from South Korea.
 
 <h3>🦢도약</h3>
-앞으로 더욱 나은 프로젝트와 더 나은 개발자가 되겠습니다.
+앞으로 더욱 나은 프로젝트와 더 나은 개발자가 되겠습니다.<br>
 I will create better projects and become a better developer in the future.
 
 <h3>프로젝트</h3>
-호텔 예약 사이트 및 레시피 공유 사이트
+호텔 예약 사이트 및 레시피 공유 사이트<br>
 Hotel reservation site and recipe sharing site
 
 <h3>🤗목표</h3>
-프론트와 퍼블리셔에 관심이 많으며, 많은 것들을 꾸미며 경험을 쌓고 있습니다.
+프론트와 퍼블리셔에 관심이 많으며, 많은 것들을 꾸미며 경험을 쌓고 있습니다.<br>
 I am interested in front and web publishing.
 
 ## 🧰&nbsp;개발 환경
