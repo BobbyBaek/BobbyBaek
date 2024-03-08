@@ -8,7 +8,7 @@ I will create better projects and become a better developer in the future.
 
 <h3>프로젝트</h3>
 호텔 예약 사이트 및 레시피 공유 사이트<br>
-Hotel reservation site and recipe sharing site
+Hotel reservation site and receipe sharing site
 
 <h3>🤗목표</h3>
 프론트와 퍼블리셔에 관심이 많으며, 많은 것들을 꾸미며 경험을 쌓고 있습니다.<br>
