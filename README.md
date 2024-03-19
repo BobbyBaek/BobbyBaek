@@ -1,4 +1,4 @@
-<h1 align="center">KyungChan, Baek (Bobby)</h1>
+<h1 align="center">KyungChan, Baek(Bobby)</h1>
 
 ### Welcome to my page. <br> I'm Bobby, a Front-End Developer from South Korea.
 
