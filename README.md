@@ -14,7 +14,7 @@ Hotel reservation site and receipe sharing site
 프론트와 퍼블리셔에 관심이 많으며, 많은 것들을 꾸미며 경험을 쌓고 있습니다.<br>
 I am interested in front and web publishing.
 
-## 🧰&nbsp;개발 환경
+## 🧰&nbsp;개발 환경 
 <div style="dispaly:flex;">
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"> 
