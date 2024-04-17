@@ -12,7 +12,7 @@ Hotel reservation site and receipe sharing site
 
 <h3>🤗목표</h3>
 프론트와 퍼블리셔에 관심이 많으며, 많은 것들을 꾸미며 경험을 쌓고 있습니다.<br>
-I am interested in front and web publishing.
+I am interested in front and web publishing. Always trying to learn and make experience. 
 
 ## 🧰&nbsp;개발 환경 
 <div style="dispaly:flex;">
